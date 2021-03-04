@@ -1,0 +1,40 @@
+body{
+    background-color: ghostwhite;
+    font-family: 'Roboto';
+    color: black;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 70px 300px 70px 300px;
+}
+
+h4{
+    text-align: center;
+}
+
+
+h3{
+    color: black;    
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+p{
+    text-align: left;
+    color: dimgray;
+    margin-left: 60px;
+}
+
+divclass{
+    style="width:15%";
+   
+}
+
+ 
